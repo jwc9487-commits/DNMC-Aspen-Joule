@@ -2,10 +2,10 @@
 
 This folder contains input tables used in the Aspen Plus model.
 
-## Recommended files (examples)
-- `Feed_Composition.xlsx` : Feed composition and flowrate basis
-- `Operating_Conditions.xlsx` : Temperatures, pressures, and key setpoints
-- `Kinetic_Parameters.csv` : Parameters used for conversion/selectivity
+## File: DNMC_Input data.xlsx
+- `1. DB_Experiment_VER2`  
+  Experimental dataset used as the basis for defining methane conversion
+  and product selectivity in the RStoic reactor.
 
 ## Notes
 If some parameters are defined directly in Aspen blocks rather than imported from files,
